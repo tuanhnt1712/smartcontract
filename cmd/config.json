@@ -1,0 +1,5 @@
+{
+	"signer_path": "../signer_config.json",
+	"contract": "0x615a39417670e3B0E6681af0870896AE658Fb31E",
+	"abi_path": "../../blockchain/anime.abi"
+}
